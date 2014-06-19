@@ -1,3 +1,5 @@
+import time
+
 print "Hello, world!"
-sleep(20)
+time.sleep(20)
 print "Bye!!"
